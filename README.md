@@ -17,16 +17,12 @@
 </div>
 <hr>
 <blockquote><pre>
-I'm Ethan, born on Minnesota, USA.
-But I'd rather consider myself Korean because of my educational background;
-Korean name is called "Sang-Won" (상원), meaning the "Facing the River" (相沅).
-My name at its fundamental interpretation means 'when I get closer to water, I get healthier.'
-I thought it was pretty cool, until that moment that all people would eventually
-  freaking die out if they get totally far away from water - like huh????
+(Not) [S]urprisingly enough I've started programming since 11.
+At least there was a private institute in Korea 🥲
 
 Here are my random characteristics  
 🧠: Not much of a smarty, but still nerdy
-🕹️: Too much to the point I periodically forget when sun comes up every day
+🕹️: Too much to the point I periodically forget when the sun comes up every day
 ⌨️: Never broken for 5 years, using a random mechanical keyboard
 </pre></blockquote>
 <hr>
