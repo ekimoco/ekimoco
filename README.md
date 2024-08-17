@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=💫%20About%20Me%20🌟&type=waving&color=timeGradient&animation=twinkling)
 
+![Snake animation](https://github.com/admiinator/admiinator/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43cfec23-ea61-4e83-83de-6db82dcfa4d8" height=200>
 </p>
@@ -60,4 +62,3 @@ Here are my random characteristics
 > <pre>Never forget your semicolon ;> (Unless you're writing in Python or JS)</pre>
 
 ![footer](https://capsule-render.vercel.app/api?20&type=waving&color=timeGradient&section=footer)
-![Snake animation](https://github.com/admiinator/admiinator/blob/output/github-contribution-grid-snake.svg)
