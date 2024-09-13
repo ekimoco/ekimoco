@@ -17,7 +17,7 @@
 </div>
 <hr>
 <blockquote><pre>
-(Not) [S]urprisingly enough I've started programming since 11.
+(Not) [S]urprisingly enough I've started programming since 10.
 At least there was a private institute in Korea 🥲
 
 Here are my random characteristics  
