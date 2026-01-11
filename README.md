@@ -8,13 +8,7 @@
 <h3 align="center"><ins>Ethan M. Kim</ins></h3>
 <h5 align="center">Gender: Cisgender Male ♂️</h5>
 <h5 align="center">DOB: Jan 07, 2005.</h5>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ekimoco&show_icons=true&hide_border=true&custom_title=Piles%20of%20Objectives&line_height=30&theme=tokyonight&border_radius=25&show=reviews,discussions_starrted,discussions_answered,prs_merge,prs_merged_percentage#gh-dark-mode-only">
-</div>
 <hr>
-<blockquote><pre>
-email: ekim@ekimoco.dev
-</pre></blockquote>
 <hr>
 ### Languages
 <p align="left">
@@ -41,5 +35,6 @@ email: ekim@ekimoco.dev
 <hr>
 
 ### Contacts
+Email: `ekim@ekimoco.dev` (Self-hosted IMAP)
 
 ![footer](https://capsule-render.vercel.app/api?20&type=waving&color=timeGradient&section=footer)
