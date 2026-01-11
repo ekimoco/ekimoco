@@ -3,7 +3,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43cfec23-ea61-4e83-83de-6db82dcfa4d8" height=200>
+  <img src="https://avatars.githubusercontent.com/u/39701330?v=4" height=200>
 </p>
 <h3 align="center"><ins>Ethan M. Kim</ins></h3>
 <h5 align="center">Gender: Cisgender Male ♂️</h5>
