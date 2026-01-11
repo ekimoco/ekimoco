@@ -9,7 +9,6 @@
 <h5 align="center">Gender: Cisgender Male ♂️</h5>
 <h5 align="center">DOB: Jan 07, 2005.</h5>
 <hr>
-<hr>
 ### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50/>
