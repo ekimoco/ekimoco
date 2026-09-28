@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=💫%20About%20Me%20🌟&type=waving&color=timeGradient&animation=twinkling)
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p align="center">
@@ -21,7 +19,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height=50/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-plain.svg" height=50/>
 </p>
+
+### Studying
+- WIN32 API
+- Bunch of new stuff in C++ (it's so different now?)
+- Unity Scripting
+- UdonScript (VRC)
+- Agent toolchaining
 
 ### Available Tools
 <p align="left">
