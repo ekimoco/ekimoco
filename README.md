@@ -29,6 +29,8 @@
 - Unity Scripting
 - UdonScript (VRC)
 - Agent toolchaining
+- Kotlin/Native & C-interop
+- ...and many more
 
 ### Available Tools
 <p align="left">
