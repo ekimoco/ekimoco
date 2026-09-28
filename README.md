@@ -1,5 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+`<<EOF`<br>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/39701330?v=4" height=200>
 </p>
@@ -45,6 +44,6 @@
 <hr>
 
 ### Contacts
-Email: `ekim@ekimoco.dev` (Self-hosted IMAP)
-
+Email: `ekim@ekimoco.dev` (Self-hosted IMAP)<br>
+`EOF`<br>
 ![footer](https://capsule-render.vercel.app/api?20&type=waving&color=timeGradient&section=footer)
